@@ -1,0 +1,1 @@
+test remote pull with ssh pull command.
